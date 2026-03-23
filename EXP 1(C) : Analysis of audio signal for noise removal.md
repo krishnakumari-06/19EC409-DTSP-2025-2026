@@ -1,6 +1,6 @@
 # EXP 1(C) : Analysis of audio signal for noise removal
 
-# AIM: 
+# AIM:
 
 # To analyse an audio signal and remove noise
 
